@@ -1,0 +1,1 @@
+Letakkan foto galeri di folder ini (untuk upload manual ke hosting)
